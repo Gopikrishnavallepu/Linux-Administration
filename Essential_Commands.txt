@@ -1,4 +1,3 @@
-### Log into Local and Remote Graphical and Text Mode Consoles
 # Bash Special Variables and Characters
 
 Bash scripting involves several special variables and characters with unique meanings. Here’s a detailed list of these elements:
