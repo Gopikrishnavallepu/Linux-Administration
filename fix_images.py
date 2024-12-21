@@ -22,7 +22,7 @@ def update_image_links(markdown_file, image_dir):
     for index, link in enumerate(broken_links):
         # Generate the new image filename based on the index
         if index == 0:
-            image_filename = 'Untitled.png'
+            image_filename = 'Linux_incident_response.jpg'
         else:
             image_filename = f'Untitled {index}.png'
         
