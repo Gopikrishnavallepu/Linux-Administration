@@ -3,10 +3,10 @@ import re
 import urllib.parse
 
 # Path to the README.md file
-markdown_file = 'README.md'
+markdown_file = 'Linux Foundation Certified System Administrator (L 15501aeaa31980219952c041e272b617.md'
 
 # Directory containing images
-image_dir = 'img'
+image_dir = 'Linux Foundation Certified System Administrator (L 15501aeaa31980219952c041e272b617'
 
 # Regex pattern to find broken image links
 pattern = re.compile(r'!\[.*?\]\((.*?)\)')
